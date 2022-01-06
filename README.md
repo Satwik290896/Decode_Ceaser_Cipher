@@ -6,5 +6,7 @@ text = "W pszwsjs hvs waouwbohwcb wg hvs doggdcfh hvoh ks qfsohs hc vszd hoys ig
 
 # Output
 '''Console Output Sample'''
+
 '''Key: 14'''
+
 '''Decrypted Output: I believe the imagination is the passport that we create to help take us into the real world'''
